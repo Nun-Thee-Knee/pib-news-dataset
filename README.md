@@ -8,7 +8,6 @@ The dataset consists of the following columns:
 
 - **`category`** – The ministry or department related to the news.  
 - **`text`** – The title of the news article.  
-- **`year`** – The year in which the news was published.  
 
 ## 🛠 Data Collection & Processing  
 - **Automated Scraping**: Used **Selenium** to automate selecting tabs and extracting news titles from PIB archives.  
