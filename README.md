@@ -18,9 +18,6 @@ The dataset consists of the following columns:
 ## 🔗 Source  
 The news titles were extracted from the **Press Information Bureau (https://pib.gov.in)**.  
 
-## 📜 License  
-This dataset is released under the **CC BY 4.0 License**, allowing sharing and modification with attribution.  
-
 ## 🚀 Potential Use Cases  
 - **Natural Language Processing (NLP)** for news categorization.  
 - **Trend Analysis** of government announcements over the years.  
